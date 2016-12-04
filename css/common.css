@@ -2,6 +2,8 @@
 	font-family:Latolight;
 }
 
+
+
 /*header*/
 /*header*/
 
@@ -60,6 +62,7 @@ textarea{
 .btn-enviar{
 	margin-left:25%;
 	width:25%;
+	color:#192951;
 
 }
 button:hover{
