@@ -6,7 +6,9 @@
 
 /*header*/
 /*header*/
-
+.center{
+	text-align: center;
+}
 
 nav.navbar{
 	background-color:transparent;
@@ -62,7 +64,8 @@ textarea{
 .btn-enviar{
 	margin-left:25%;
 	width:25%;
-	color:#192951;
+	color:white;
+
 
 }
 button:hover{

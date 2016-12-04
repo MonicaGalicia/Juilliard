@@ -24,11 +24,12 @@ h2{
 	width:80%;
 	background-color:grey;
 	margin-left:0px;
+	padding-top:2%;
 	margin-top:30px;
 	
 }
 .text-white{
-	color:white;
+	color:white !important	;
 }
 
 h4,h5,p{

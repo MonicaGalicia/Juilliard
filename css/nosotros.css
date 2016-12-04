@@ -1,3 +1,5 @@
+
+/*seccion 1 imagen sobre nosotros*/
 #fondo1{ 
 background-image:url("../img/dance_7.jpg");
 background-size:100%;
@@ -15,10 +17,16 @@ background-repeat:no-repeat;
 	margin-top:150px;
 }
 
+
+/*secccion pilares*/
+
+
 .fondocubes{
 background-image:url("../img/cubes.png");
 height:300px;
 }
+
+
 
 hr{
 	width:300px;
@@ -38,8 +46,9 @@ hr{
 	margin-bottom:40px;
 }
 
+/*seccion equipo*/
 .sizeteach{
-	width:230px;
+	width:80%;
 	height:250px;
 	margin:10px 0px;
 	
