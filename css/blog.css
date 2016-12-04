@@ -15,10 +15,13 @@ img{
 h2{
 	margin-top:30px;
 }
-
+.img{
+	width:100%;
+	height:220px;
+}
 .fondoimgblog{
 	height:220px;
-	width:780px;
+	width:80%;
 	background-color:grey;
 	margin-left:0px;
 	margin-top:30px;
@@ -39,12 +42,15 @@ h4{
 }
 
 button{
-	width:150px;
-	height:50px;
+	width:100px;
+	height:25px;
 	background-color:#192951;
-	border:#192951;
-	font-size:15px;
+	border:none;
 	margin:auto;
 	display:block;
-	margin:15px;
+	border-radius:2px;
+	color:white;
 }
+
+
+/**/

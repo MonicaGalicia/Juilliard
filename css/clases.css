@@ -8,8 +8,8 @@
 
 #imagen1{
 background-image:url("../img/dance_12.jpg");
-margin-left:250px;
 margin-top:30px;
+margin-left:10%;
 }
 
 #imagen2{
@@ -23,7 +23,7 @@ background-image:url("../img/lirical-jazz.jpg");
 #imagen4{
 background-image:url("../img/arabe.jpg");
 margin-top:30px;
-margin-left:250px;
+margin-left:10%;
 	
 }
 #imagen5{

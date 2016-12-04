@@ -2,65 +2,66 @@
 	font-family:Latolight;
 }
 
-.center{
-	text-align:center;
-}
-
-
 /*header*/
-li{
-	list-style:none;
-	display:inline-block;
-	margin-left:100px;
-	text-align:center;
-	color:grey;
+/*header*/
+
+
+nav.navbar{
+	background-color:transparent;
+	border-color:transparent;
+	margin-left: 35%;
+
+}
+.navbar-toggle{
+	background-color: black !important;
+
+}
+.a:hover {color:blue !important;}
+
+.text-white{
+	color:white;
 }
 
 h1{
 	margin:25px 0px;
 
 }
-
-#linosotros{
-	margin-left:30px;
+li{
+	font-size: 20px;
 }
+
 /*header*/
 
 /*seccion formulario*/
 #zapatilla{
 	float:right;
-	width:600px;
+	width:100%;
 	height:440px; 
 }
 
-form{
-	margin:50px 0px 0px 35px;
-	width:450px;
-	height:40px;
-}
 
-input, textarea{
-	margin-top:12px;
-	width:400px;
-	height:40px;
-
-}
-
-textarea{
-	min-height:100px;
-	max-height:300px;
-	max-width:450px;
-}
 
 #contacto{
 	margin-left:50px;
 	color:#192951;
 }
 
-#botonformulario:hover{
-	cursor:pointer;
+input ,textarea{
+	display: block;
+	margin:2% 0px;
+	width:80%;
+	height:35px;
 }
 
+textarea{
+	height:85px;
+}
+
+.btn-enviar{
+	margin-left:25%;
+	width:25%;
+
+}
 button:hover{
 	cursor:pointer;
 }

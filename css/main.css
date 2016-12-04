@@ -1,23 +1,6 @@
 
-h1{
-	margin:25px;
-}
 
-nav.navbar{
-	background-color:transparent;
-	border-color:transparent;
-	margin-left: 20%;
-
-}
-.navbar-toggle{
-	background-color: black !important;
-
-}
-.a:hover {color:blue !important;}
-
-.text-white{
-	color:white;
-}
+/*primera sección*/
 #fondo{
 background-image:url("../img/dance_1.jpg");
 background-size:100%;
@@ -41,6 +24,23 @@ background-repeat:no-repeat;
 	font-size:12px;
 	opacity:5%;
 }
+
+/*seccion bailarin*/
+.bailarin{
+	width:49%;
+	height:400px; 
+	display:inline-block;
+
+}
+
+.bailarin2{
+	width:50%;
+	height:400px; 
+	display:inline-block;
+}
+
+
+/*segunda secciónn oferta*/
 
 #poferta{
 	margin-top:45px;
@@ -71,6 +71,8 @@ margin:auto;
 margin-bottom:45px;
 }
 
+/*tercera sección*/
+
 #botonbailarin{ /*boton nuestros bailarines*/
 	width:300px;
 	height:45px; 
@@ -82,6 +84,8 @@ margin-bottom:45px;
 	top:355px;
 	bottom:3px;
 	}
+
+/*cuarta sección mapa*/
 
 .bg-blue{
 	background-color:#192951;
@@ -97,39 +101,6 @@ margin-bottom:45px;
 	margin-top:0px;
 
 }
-
-#zapatilla{
-	float:right;
-	width:600px;
-	height:440px; 
-}
-
-#footer{
-	width:1050;
-	height:50px; 
-
-}
-
-#pfooter{
-	font-size:12px;
-	margin:20px;
-
-}
-
-.bailarin{
-	width:49%;
-	height:400px; 
-	display:inline-block;
-
-}
-
-.bailarin2{
-	width:50%;
-	height:400px; 
-	display:inline-block;
-}
-
-
 
 .bg-mapa{
 	width:100%;
@@ -156,15 +127,18 @@ iframe{
 }
 
 
-#contacto{
-	margin-left:50px;
-	color:#192951;
-}
 
-#botonformulario:hover{
-	cursor:pointer;
-}
 
-button:hover{
-	cursor:pointer;
-}
+
+
+
+
+
+
+
+/*comun*/
+
+
+
+
+
